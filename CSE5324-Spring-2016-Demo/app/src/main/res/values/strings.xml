@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DEMO</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="app_logo">DEMO</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">logout</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+</resources>
